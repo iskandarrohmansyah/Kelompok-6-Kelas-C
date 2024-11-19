@@ -4,7 +4,7 @@
 - Iskandar Rohman Syah (I0324116)
 - Nashwa Cahayaning Atmono (I0324120)
 
-# Tema : Sistem rencana menu mingguan otomatis 
+# Tema : Sistem pembelian perlengkapan olahraga
 
 # Deskripsi Ringkas
-Sistem ini membantu menyusun rencana makan selama seminggu berdasarkan stok bahan yang dimiliki. Dengan menginput bahan yang tersedia, sistem ini dapat menyarankan menu seimbang untuk sarapan, makan siang, dan makan malam.
+Program ini menyediakan daftar perlengkapan olahraga seperti raket, bola, atau sepatu olahraga. Pengguna bisa memilih produk, jumlah yang dibeli, dan melihat total harga. Tambahan bisa berupa kategori olahraga (seperti bulu tangkis, sepak bola, lari) dan informasi stok.
