@@ -7,4 +7,4 @@
 # Tema : Sistem pembelian perlengkapan olahraga
 
 # Deskripsi Ringkas
-Program ini menyediakan daftar perlengkapan olahraga seperti raket, bola, atau sepatu olahraga. Pengguna bisa memilih produk, jumlah yang dibeli, dan melihat total harga. Tambahan bisa berupa kategori olahraga (seperti bulu tangkis, sepak bola, lari) dan informasi stok.
+Program ini menyediakan daftar perlengkapan olahraga seperti bola voli, raket bulu tangkis, sepatu bulutangkis, sepatu voli, sepatu lari, bola basket, sepatu basket, shuttlecock, sepatu bola, sepatu futsal, bola futsal, dan bola sepak. Pengguna juga bisa memilih produk, jumlah yang dibeli, dan melihat total harga. Tambahan lainnya juga bisa berupa kategori olahraga untuk pembelian perlengkapan pada setiap kategorinya (seperti bulu tangkis, sepak bola, basket, voli, futsal, dan lari) dan informasi stoknya.
