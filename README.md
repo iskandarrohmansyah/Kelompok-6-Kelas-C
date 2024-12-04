@@ -14,8 +14,8 @@ Program ini menyediakan daftar perlengkapan olahraga seperti bola voli, raket bu
 Registrasi pengguna baru :
 - Pengguna dapat mendaftarkan akun dengan email dan password.
 - Sistem memvalidasi email agar tidak terdaftar ganda.
-2. Login Pengguna :
+Login Pengguna :
 - Pengguna dapat masuk ke akun mereka menggunakan email dan password.
 - Sistem memverifikasi kombinasi email dan password.
-3. Konfirmasi Password :
+Konfirmasi Password :
 - Saat mendaftar, pengguna harus memasukkan password dua kali untuk memastikan kecocokan.
