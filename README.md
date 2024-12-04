@@ -11,12 +11,12 @@ Program ini menyediakan daftar perlengkapan olahraga seperti bola voli, raket bu
 
 # Fitur-fitur 
 1. Manajemen Akun
-   a. Registrasi Pengguna Baru:
-   - Pengguna dapat mendaftarkan akun dengan email dan password.
-   - Sistem memvalidasi email agar tidak terdaftar ganda.
-   b. Login Pengguna:
-   - Pengguna dapat masuk ke akun mereka menggunakan email dan password.
-   - Sistem memverifikasi kombinasi email dan password.
-   c. Konfirmasi Password:
-   - Saat mendaftar, pengguna harus memasukkan password dua kali untuk memastikan kecocokan.
+a. Registrasi Pengguna Baru:
+- Pengguna dapat mendaftarkan akun dengan email dan password.
+- Sistem memvalidasi email agar tidak terdaftar ganda.
+b. Login Pengguna:
+- Pengguna dapat masuk ke akun mereka menggunakan email dan password.
+- Sistem memverifikasi kombinasi email dan password.
+c. Konfirmasi Password:
+- Saat mendaftar, pengguna harus memasukkan password dua kali untuk memastikan kecocokan.
 
