@@ -31,7 +31,7 @@ Berikut adalah daftar fitur dari kode di atas untuk sistem pembelian perlengkapa
 #### **2. Pengelolaan Peralatan Olahraga**
 - **Kategori Peralatan**:
   - Produk dikategorikan berdasarkan jenis olahraga.
-  - Contoh kategori: **Bulu tangkis**, **Sepak bola**, **Basket**, dll.
+  - Contoh kategori: **Bulu tangkis**, **Sepak bola**, **Basket**, **Lari** , **Voli** , **Futsal** .
 - **Daftar Peralatan**:
   - Menampilkan daftar produk berdasarkan kategori yang dipilih.
   - Menampilkan detail produk seperti nama, kategori, dan jumlah stok.
