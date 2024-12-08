@@ -89,6 +89,7 @@ Berikut adalah daftar fitur dari kode di atas untuk sistem pembelian perlengkapa
 ---
 
 # Flowchart
-![WhatsApp Image 2024-12-08 at 20 37 20_54c40a37](https://github.com/user-attachments/assets/a3088835-1fbb-477a-a145-a447d055388f)
+![WhatsApp Image 2024-12-08 at 20 47 37_29a997e8](https://github.com/user-attachments/assets/e79a4daa-b471-4aa0-a3d8-bbbbc7d81a4f)
+
 
 
