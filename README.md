@@ -58,7 +58,7 @@ Berikut adalah daftar fitur dari kode di atas untuk sistem pembelian perlengkapa
 
 #### **5. Pembayaran**
 - **Pilihan Metode Pembayaran**:
-  - Menyediakan berbagai opsi pembayaran: **BCA**, **BNI**, **BRI**, **Mandiri**, **Gopay**, **Dana**, **OVO**, dan **ShopeePay**.
+  - Menyediakan berbagai opsi pembayaran: **Gopay**, **Dana**, **OVO**, dan **ShopeePay**.
 - **Instruksi Pembayaran**:
   - Menampilkan langkah-langkah pembayaran sesuai metode yang dipilih.
   - Informasi rekening tujuan dan kontak admin untuk konfirmasi pembayaran.
